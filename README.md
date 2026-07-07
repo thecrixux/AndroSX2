@@ -26,7 +26,9 @@
 
 ## About This Repository
 
-The native PS2 emulation core is powered by [AndroSX2Core](https://github.com/hugo94110/AndroSX2Core), a native PCSX2 port for Android.
+This repository contains the Android app demo : ROM file picker, on-screen touch controls, and settings.
+
+The native PS2 emulation core is powered by [AndroSX2Core](https://github.com/hugo94110/AndroSX2Core), a separate native PCSX2 port for Android.
 
 ## Features
 
