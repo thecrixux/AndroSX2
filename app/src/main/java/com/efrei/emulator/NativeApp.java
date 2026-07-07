@@ -1,4 +1,4 @@
-package com.efrei.emulator;
+package com.androsx2.demo;
 
 import android.content.ContentResolver;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.efrei.emulator;
+package com.androsx2.demo;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.efrei.emulator", appContext.getPackageName());
+        assertEquals("com.androsx2.demo", appContext.getPackageName());
     }
 }

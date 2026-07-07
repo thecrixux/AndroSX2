@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace 'com.efrei.emulator'
+    namespace 'com.androsx2.demo'
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId "com.efrei.emulator"
+        applicationId "com.androsx2.demo"
         minSdk 23
         targetSdk 34
         versionCode 1

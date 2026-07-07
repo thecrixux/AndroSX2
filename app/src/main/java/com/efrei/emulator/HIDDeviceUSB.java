@@ -1,4 +1,4 @@
-package com.efrei.emulator;
+package com.androsx2.demo;
 
 import android.hardware.usb.UsbConstants;
 import android.hardware.usb.UsbDevice;

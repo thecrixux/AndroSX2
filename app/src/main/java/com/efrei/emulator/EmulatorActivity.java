@@ -1,4 +1,4 @@
-package com.efrei.emulator;
+package com.androsx2.demo;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

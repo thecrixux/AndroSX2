@@ -1,4 +1,4 @@
-package com.efrei.emulator;
+package com.androsx2.demo;
 
 import android.app.PendingIntent;
 import android.bluetooth.BluetoothAdapter;
