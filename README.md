@@ -60,7 +60,7 @@ The native PS2 emulation core is powered by [AndroSX2Core](https://github.com/hu
 
 ## Build
 
-This is a standard Android Studio / Gradle project:
+This is a standard Android Studio / Gradle project. You can open it directly in Android Studio and run it from there, or build it from the command line:
 
 ```bat
 gradlew.bat assembleDebug
