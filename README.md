@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/Android-arm64--v8a-3ddc84?logo=android&logoColor=white" alt="Android arm64-v8a">
     <img src="https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/minSdk-API%2023%20(Android%206.0)-0078D4?logo=android&logoColor=white" alt="Min SDK 23">
-    <img src="https://img.shields.io/badge/Core-C%2B%2B%20(PCSX2%20port)-2ea44f?logo=cplusplus&logoColor=white" alt="C++ core">
     <img src="https://img.shields.io/badge/status-Demo-lightgrey" alt="Demo">
     <img src="https://img.shields.io/badge/license-Proprietary-red" alt="License">
   </p>
@@ -26,8 +25,6 @@
 </div>
 
 ## About This Repository
-
-This repository contains a public technical demo of AndroSX2.
 
 The native PS2 emulation core is powered by [AndroSX2Core](https://github.com/hugo94110/AndroSX2Core), a native PCSX2 port for Android.
 
