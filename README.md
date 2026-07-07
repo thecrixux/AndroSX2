@@ -75,7 +75,3 @@ AndroSX2 is an independent, unofficial project created for educational purposes 
 This software is provided "as is", without warranty of any kind, express or implied. The author assumes no liability for any damage or other consequence resulting from its use.
 
 You are responsible for legally owning any games you use with this software and for complying with the laws of your country regarding emulation and copyright.
-
-## License
-
-This project is released under a proprietary license - all rights reserved. The source code in this repository is provided for demonstration purposes only and may not be redistributed, modified, or used commercially without permission.
